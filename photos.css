@@ -1,0 +1,27 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+p {
+	font-family: Raleway;
+	font-size: 30px;
+	margin: 1.66%;
+	font-weight: 300;
+	border-bottom: 2px solid gray;
+	width: 30%;
+	padding: 20px;
+}
+h2 {
+	font-family: Raleway;
+	margin: 1.66%;
+	border-bottom: 2px solid gray;
+	width: 30%;
+	padding: 20px;
+}
+* {
+	background-image: url(b.JPG);
+	background-size: 100%;
+	background-attachment: fixed;
+	color:white;
+}
